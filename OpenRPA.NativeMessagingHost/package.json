@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "crx3": "^1.1.2"
+    "crx3": "^1.1.3"
   }
 }
